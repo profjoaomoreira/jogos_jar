@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+MIDlet-Vendor: Gameloft SA
+MIDlet-Version: 1.0.3
+MIDlet-1: The Amazing Spider Man 2, /icon.png, GloftAS2M
+MicroEdition-Configuration: CLDC-1.0
+Created-By: 1.7.0_02 (Oracle Corporation)
+MIDlet-Icon: /icon.png
+MIDlet-Name: The Amazing Spider Man 2-JavierTouch
+MIDlet-Permissions: javax.microedition.io.Connector.http
+MicroEdition-Profile: MIDP-2.0
+MIDlet-Description: The Amazing Spider-Man 2
+MIDlet-Jar-Size: 687047
+MIDlet-Jar-URL: the_amazing_spider_man_2_javiert.jar
+Nokia-MIDlet-Category: Game

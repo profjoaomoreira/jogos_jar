@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+MIDlet-Touch-Support: true
+MIDlet-Vendor: Gameloft SA
+MIDlet-Version: 1.0.9
+MIDlet-1: Splinter Cell Conviction, /icon.png, GloftSPC5
+MicroEdition-Configuration: CLDC-1.1
+Created-By: 1.6.0_10 (Sun Microsystems Inc.)
+MIDlet-Icon: /icon.png
+MIDlet-Name: Splinter Cell Conviction
+MicroEdition-Profile: MIDP-2.0
+MIDlet-Description: Play as Sam Fisher, renegade spy agent!
+MIDlet-Jar-Size: 693449
+MIDlet-Jar-URL: splinterc_f_rum.jar
+Nokia-MIDlet-Category: Game

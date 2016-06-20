@@ -1,0 +1,16 @@
+MIDlet-Name: Asphalt 6 Adrenaline
+Manifest-Version: 1.0
+MIDlet-Vendor: Gameloft SA
+MIDlet-1: Asphalt 6 Adrenaline, /icon.png, GloftASP6
+MIDlet-Icon: /icon.png
+MIDlet-Description: Os melhores pilotos merecem os melhores carros.
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
+MIDlet-Version: 1.0.5
+Created-By: 1.5.0_22 (Sun Microsystems Inc.)
+MIDlet-Touch-Support: true
+
+
+
+MIDlet-Jar-Size: 1008061
+MIDlet-Jar-URL: a6a.jar

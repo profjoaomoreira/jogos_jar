@@ -1,0 +1,18 @@
+MIDlet-Jar-Size: 212432
+MIDlet-Jar-URL: mario_for_touch_screen_by_warulo.jar
+Manifest-Version: 1.0
+MicroEdition-Profile: MIDP-2.0
+MicroEdition-Configuration: CLDC-1.0
+MIDlet-Name: Super Mario Bross
+MIDlet-Vendor: TouchScreen adapted by Mad_D
+MIDlet-1: Giana Sisters, /icon.png, Init
+MIDlet-Icon: /icon.png
+MIDlet-Version: 1.0.2
+MIDlet-Data-Size: 4096
+Created-By: TouchScreen adapted by Mad_D
+MIDlet-Touch-Support: True
+UseNativeTextButtons: false
+ReverseSoftkeys: true
+UseNativeCommands: false
+LGE-MIDlet-TargetLCD-Height: 240
+LGE-MIDlet-TargetLCD-Width: 400
